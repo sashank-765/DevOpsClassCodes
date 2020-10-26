@@ -136,7 +136,7 @@ public class AddressbookUI extends UI {
 
     /*
      * Deployed as a Servlet or Portlet.
-     *
+     *  ibsdhhhhhisbdcsiudbcsiudvb
      * You can specify additional servlet parameters like the URI and UI class
      * name and turn on production mode when you have finished developing the
      * application.
